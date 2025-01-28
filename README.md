@@ -1,5 +1,5 @@
 # Hi I'm Jensen!
-💻 Second Year in CS @ University of Alberta < /br>
+💻 Second Year in CS @ University of Alberta</br>
 📖 Currently learning RISC-V assembly in my computer architecture class, while learning React and NextJS in my free time.
 
 
