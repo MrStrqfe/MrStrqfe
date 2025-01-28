@@ -1,5 +1,9 @@
+# Hi I'm Jensen!
+💻 Second Year in CS @ University of Alberta
+📖 Currently learning RISC-V assembly in my computer architecture class, while learning React and NextJS in my free time.
 
-## 🌐 Socials
+
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jensen-leee) 
 
 # 💻 Tech Stack
