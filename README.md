@@ -1,6 +1,6 @@
 # Hi I'm Jensen!
-💻 Second Year in CS @ University of Alberta</br>
-📖 Currently learning RISC-V assembly in my computer architecture class, while learning React and NextJS in my free time.
+💻 Third Year in CS @ University of Alberta</br>
+📖 Currently learning Java, JavaScript, PostgreSQL, while creating my first full-stack application. 
 
 
 # 🌐 Socials
