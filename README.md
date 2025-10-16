@@ -1,7 +1,7 @@
 # Hi I'm Jensen!
 💻 Third Year in CS @ University of Alberta</br>
 📖 Currently learning Java, JavaScript, PostgreSQL, while creating full-stack applications</br>
-💼 Currently looking for Winter 2026 Internships
+💼 Currently looking for Summer 2026 Internships
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jensen-leee) 
