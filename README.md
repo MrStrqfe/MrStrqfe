@@ -1,6 +1,6 @@
 # Hi I'm Jensen!
 💻 Third Year in CS @ University of Alberta</br>
-📖 Currently learning Java, JavaScript, PostgreSQL, while creating full-stack applications</br>
+📖 Currently creating a full-stack application using Vue for frontend, Express for backend</br>
 💼 Currently looking for Summer 2026 Internships
 
 # 🌐 Socials
