@@ -1,7 +1,7 @@
 # Hi I'm Jensen!
 💻 Fourth Year in CS @ University of Alberta</br>
-📖 Currently creating a full-stack application using React and TailwindCSS for frontend, Supabase + PostgreSQL for backend</br>
-💼 Currently looking for Fall 2026 Internships
+📖 Currently creating a full-stack application using React for frontend, Supabase + PostgreSQL for backend</br>
+💼 Currently looking for Winter 2027 Internships
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jensen-leee) 
